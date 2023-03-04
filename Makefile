@@ -17,7 +17,7 @@ TOPDIR ?= $(CURDIR)
 #-------------------------------------------------------------------------------
 APP_NAME		:= Espresso
 APP_SHORTNAME	:= Espresso
-APP_AUTHOR		:= The Project Expresso Team
+APP_AUTHOR		:= The Project Espresso Team
 
 include $(DEVKITPRO)/wut/share/wut_rules
 
