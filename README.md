@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/1081379528112353310/1083692872081084416/Esp_banner2.png)
+![Banner](https://media.discordapp.net/attachments/1081379528112353310/1084657387471896586/-eyysc0.jpg)
 # Espresso
 Bring more life to your café with Espresso; revive the Wii U's discontinued services such as TVii, streaming services, and more.
 
